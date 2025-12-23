@@ -84,14 +84,6 @@ You can:
 
 ---
 
-## 👶 Children’s Privacy
-
-This app is intended for community members only.
-
-We do **not knowingly collect data** from children under the age of 13.
-
----
-
 ## 🔌 Third-Party Services
 
 We may use trusted third-party services (such as Firebase) for:
