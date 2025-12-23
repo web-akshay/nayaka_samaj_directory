@@ -1,4 +1,4 @@
-# Privacy Policy  
+# 🔐 Privacy Policy  
 ## Nayaka Samaj Directory App
 
 > Your privacy matters to us.  
@@ -6,12 +6,16 @@
 
 **Last updated:** 24 December 2025
 
+---
+
 ## 📌 Introduction
 
 Nayaka Samaj Directory respects the privacy of all community members.  
 This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application.
 
 By using this app, you agree to the practices described below.
+
+---
 
 ## 👤 Information We Collect
 
@@ -25,6 +29,8 @@ When you register or use the app, we may collect:
 - Profile information (business details, community data, etc.)
 
 We collect **only what is necessary** to provide community-related features.
+
+---
 
 ## ⚙️ How We Use Your Information
 
@@ -42,6 +48,8 @@ Your information is used to:
 
 ✅ We **do not sell or rent** your personal information.
 
+---
+
 ## 🔄 Data Sharing
 
 Your data is shared **only within the app** where required.
@@ -53,6 +61,8 @@ We may disclose information:
 
 ❌ We do **not** share data with advertisers or marketing platforms.
 
+---
+
 ## 🔐 Data Security
 
 We follow standard security practices, including:
@@ -63,6 +73,7 @@ We follow standard security practices, including:
 
 ⚠️ Please note that no online system is completely secure.
 
+---
 
 ## ✏️ Your Control Over Data
 
